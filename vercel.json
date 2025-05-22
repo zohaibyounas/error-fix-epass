@@ -1,6 +1,3 @@
 {
-  "version": 1,
-  "images": {
-    "disableStaticImages": true
-  }
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
