@@ -1,7 +1,7 @@
 /* eslint-disable no-irregular-whitespace */
 //import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link } from "react-router-dom";
-import img1 from "../assets/img1.jpg"; // Replace with your hero image path
+import img from "../assets/img1.jpg"; // Correct if assets is in src
 import ZweiteÜberblickBild from "../assets/ZweiteÜberblickBild.jpg"; // Replace with the second image
 import Diagrammbild from "../assets/Diagrammbild.jpg"; // Replace with the final
 // image
@@ -52,7 +52,7 @@ const Hero = () => {
           {/* First Image Section */}
           <div className="w-full flex justify-center mb-6">
             <img
-              src={img1}
+              src={img}
               alt="img1"
               className="rounded-lg shadow-md w-full sm:w-5/6 md:w-3/4 lg:w-3/4 lg:h-auto h-[120px]"
             />
