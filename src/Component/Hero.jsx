@@ -1,7 +1,7 @@
 /* eslint-disable no-irregular-whitespace */
 //import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link } from "react-router-dom";
-import img from "../assets/img1.jpg"; // Correct if assets is in src
+import img from "../assets/img.jpg"; // Correct if assets is in src
 import ZweiteÜberblickBild from "../assets/ZweiteÜberblickBild.jpg"; // Replace with the second image
 import Diagrammbild from "../assets/Diagrammbild.jpg"; // Replace with the final
 // image
